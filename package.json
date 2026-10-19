@@ -1,0 +1,16 @@
+{
+  "name": "school-events-api",
+  "version": "1.0.0",
+  "description": "RESTful API for managing school organization events (Express.js)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.3.0"
+  },
+  "keywords": [],
+  "author": "",
+  "type": "commonjs"
+}
